@@ -16,3 +16,6 @@
 
 
 Link tham khảo: https://scikit-learn.org/stable/modules/preprocessing.html
+
+
+# Feture Scaling
