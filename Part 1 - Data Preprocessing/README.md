@@ -18,4 +18,14 @@
 Link tham khảo: https://scikit-learn.org/stable/modules/preprocessing.html
 
 
-# Feture Scaling
+# Feature Scaling
+
+Tại sao lại cần Feature Scalling?
+
+
+![Data Proprocess](/image/feature_scalling.png "Quy trình data")
+
+Feature Scalling giúp thu nhỏ lại khoảng giá trị mà vẫn giữa được tỉ số giữa các phần tử giữa dữ liệu gốc.
+
+
+Đang làm dở Feature Scalling
